@@ -2,12 +2,20 @@ body{
   background-color: #d9e5d7;
   font-family: Georgia;
 }
+img{
+  height: 100px;
+  width: 100px;
+  padding-bottom: 10px;
+}
 .btn{
   text-align: center;
+  border: 2px solid white;
 }
 .jumbotron{
   text-align: center;
   font-style: italic;
+  background-color: #edf4ee;
+  color: #535356;
 }
 .col-md-4{
   margin-bottom: 10px;
@@ -15,6 +23,99 @@ body{
 #start{
   width: 250px;
 }
+#javaImg{
+  height: 150px;
+  width: 75px;
+  padding-bottom: 10px;
+}
 #cSharp{
   display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  background-color: #edf4ee;
+}
+#css{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #edf4ee;
+}
+#ruby{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #edf4ee;
+}
+#java{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #edf4ee;
+}
+
+#php{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #edf4ee;
+}
+#error{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#experienceYes{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 1%;
+  background-color: #edf4ee;
+}
+#experienceNo{
+  display: none;
+  border: 3px solid green;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  float: center;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 1%;
+  background-color: #edf4ee;
 }
