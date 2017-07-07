@@ -1,7 +1,18 @@
 body{
   background-color: #d9e5d7;
+  font-family: Georgia;
+}
+button{
+  position: relative;
+  text-align: center;
 }
 .jumbotron{
   text-align: center;
   font-style: italic;
+}
+.col-md-4{
+  margin-bottom: 10px;
+}
+#start{
+  width: 250px;
 }
